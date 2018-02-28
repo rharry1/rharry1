@@ -1,0 +1,32 @@
+---
+title: "All About Rich"
+---
+
+## Bio
+
+I am a 2nd year Masters student at the University of Pennsylvania in the Department of Bioengineering.  
+I will be graduating in May 2018, and hope to get an R&D job in the prosthetics or implants industry.
+
+## My Three Favorite Sports
+
+1. Tennis
+2. Football
+3. Baseball
+
+## Engineering Coures Taken at Penn
+
+* Biomechatronics
+* Brain-Computer Interface
+* Biomechanics & Biotransport
+* Rehab Engineering & Design
+
+# Places Traveled 2010 - Present
+
+Place         | Year
+------------- | -------------
+New Mexico    | 2010
+Bermuda       | 2011
+San Diego, CA | 2012
+Bahamas       | 2014
+Mississippi   | 2016
+Austin, Tx    | 2017

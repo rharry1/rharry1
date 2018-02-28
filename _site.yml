@@ -1,0 +1,14 @@
+name: rich-scheinfield
+output_dir: '.'
+navbar:
+  title: Rich Scheinfield
+  left:
+  - text: Home
+    href: index.html
+
+output:
+  html_document:
+    theme: cosmo
+    lib_dir: site_libs
+    self_contained: no
+
